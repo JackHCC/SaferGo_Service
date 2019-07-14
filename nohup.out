@@ -1,0 +1,1570 @@
+
+> safergo@0.0.0 start /server/SaferGo
+> node ./bin/www
+
+(node:1099) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+[0mGET /search/all_friend?email=test [32m200 [0m28.050 ms - 118[0m
+[0mGET / [33m404 [0m187.190 ms - 1103[0m
+[0mGET / [33m404 [0m20.310 ms - 1103[0m
+[0mGET / [33m404 [0m16.927 ms - 1103[0m
+[0mGET / [33m404 [0m28.246 ms - 1103[0m
+[0mGET / [33m404 [0m12.842 ms - 1103[0m
+[0mGET / [33m404 [0m18.283 ms - 1103[0m
+[0mGET / [33m404 [0m11.946 ms - 1103[0m
+[0mGET / [33m404 [0m9.855 ms - 1103[0m
+[0mGET / [33m404 [0m13.295 ms - 1103[0m
+[0mGET / [33m404 [0m26.934 ms - 1103[0m
+[0mGET / [33m404 [0m27.459 ms - 1103[0m
+[0mGET /webman/login.cgi?username=admin&passwd=123456 [33m404 [0m11.904 ms - 1048[0m
+[0mGET / [33m404 [0m18.672 ms - 1103[0m
+[0mGET /webman/login.cgi?username=admin&passwd=123456 [33m404 [0m21.199 ms - 1048[0m
+[0mGET / [33m404 [0m17.224 ms - 1103[0m
+[0mGET / [33m404 [0m13.412 ms - 1103[0m
+[0mGET / [33m404 [0m7.116 ms - 1103[0m
+[0mGET / [33m404 [0m28.956 ms - 1103[0m
+[0mGET / [33m404 [0m6.602 ms - 1103[0m
+[0mGET /../../../../../../../../../../../../../../../etc/password [33m404 [0m9.249 ms - 1445[0m
+[0mGET /../../../../../../../../../../../../../../Windows/win.ini [33m404 [0m16.655 ms - 1445[0m
+[0mGET / [33m404 [0m5.626 ms - 1103[0m
+[0mGET /webman/login.cgi?username=admin&passwd=123456 [33m404 [0m13.184 ms - 1048[0m
+[0mGET / [33m404 [0m6.011 ms - 1103[0m
+[0mGET / [33m404 [0m7.000 ms - 1103[0m
+[0mGET / [33m404 [0m20.267 ms - 1103[0m
+[0mGET / [33m404 [0m6.327 ms - 1103[0m
+[0mGET / [33m404 [0m7.227 ms - 1103[0m
+[0mGET / [33m404 [0m12.496 ms - 1103[0m
+[0mGET / [33m404 [0m4.775 ms - 1103[0m
+[0mGET / [33m404 [0m5.594 ms - 1103[0m
+[0mGET / [33m404 [0m6.761 ms - 1103[0m
+[0mGET / [33m404 [0m4.572 ms - 1103[0m
+[0mGET / [33m404 [0m4.525 ms - 1103[0m
+[0mGET / [33m404 [0m15.034 ms - 1103[0m
+[0mGET / [33m404 [0m4.428 ms - 1103[0m
+[0mGET / [33m404 [0m4.585 ms - 1103[0m
+[0mGET / [33m404 [0m6.619 ms - 1103[0m
+[0mGET / [33m404 [0m6.286 ms - 1103[0m
+[0mGET / [33m404 [0m4.442 ms - 1103[0m
+[0mGET / [33m404 [0m5.083 ms - 1103[0m
+[0mGET / [33m404 [0m4.370 ms - 1103[0m
+[0mGET / [33m404 [0m5.347 ms - 1103[0m
+[0mGET / [33m404 [0m5.308 ms - 1103[0m
+[0mGET / [33m404 [0m4.357 ms - 1103[0m
+[0mGET / [33m404 [0m10.918 ms - 1103[0m
+[0mGET / [33m404 [0m5.110 ms - 1103[0m
+[0mGET / [33m404 [0m5.000 ms - 1103[0m
+[0mGET / [33m404 [0m5.083 ms - 1103[0m
+[0mGET / [33m404 [0m5.076 ms - 1103[0m
+[0mGET / [33m404 [0m4.400 ms - 1103[0m
+[0mGET / [33m404 [0m14.342 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m12.476 ms - 1112[0m
+[0mGET /index.html [33m404 [0m4.836 ms - 1048[0m
+[0mGET /index.php [33m404 [0m5.915 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m11.039 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m4.781 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m9.344 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m7.871 ms - 1048[0m
+[0mGET /README [33m404 [0m4.546 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m19.782 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m12.374 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m4.456 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m5.092 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m4.200 ms - 1103[0m
+[0mGET / [33m404 [0m10.628 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.567 ms - 1112[0m
+[0mGET /index.html [33m404 [0m11.489 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.809 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m4.474 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m4.301 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.887 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m5.207 ms - 1048[0m
+[0mGET /README [33m404 [0m8.916 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.857 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m4.378 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m4.625 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.804 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m11.184 ms - 1103[0m
+[0mGET / [33m404 [0m3.823 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.389 ms - 1112[0m
+[0mGET /index.html [33m404 [0m4.402 ms - 1048[0m
+[0mGET /index.php [33m404 [0m4.166 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.743 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m4.136 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m11.765 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m10.246 ms - 1048[0m
+[0mGET /README [33m404 [0m4.008 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m4.194 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.782 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m4.346 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m4.185 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m9.036 ms - 1103[0m
+[0mGET / [33m404 [0m3.449 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.084 ms - 1112[0m
+[0mGET /index.html [33m404 [0m4.057 ms - 1048[0m
+[0mGET /index.php [33m404 [0m5.573 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m9.211 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m4.543 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.643 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.981 ms - 1048[0m
+[0mGET /README [33m404 [0m3.812 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.300 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.556 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.768 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.219 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m3.748 ms - 1103[0m
+[0mGET / [33m404 [0m3.634 ms - 1103[0m
+[0mGET / [33m404 [0m3.943 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.066 ms - 1112[0m
+[0mGET /index.html [33m404 [0m12.087 ms - 1048[0m
+[0mGET /index.php [33m404 [0m7.159 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.926 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.884 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.515 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m5.621 ms - 1048[0m
+[0mGET /README [33m404 [0m9.449 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m9.023 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m4.056 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.806 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.623 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m3.435 ms - 1103[0m
+[0mGET / [33m404 [0m3.923 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.037 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.498 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.777 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.544 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.001 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.687 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.840 ms - 1048[0m
+[0mGET /README [33m404 [0m3.086 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.599 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.478 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.026 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m16.582 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m5.423 ms - 1103[0m
+[0mGET /a2billing/customer/templates/default/footer.tpl [33m404 [0m4.024 ms - 1048[0m
+[0mGET /recordings/ [33m404 [0m11.608 ms - 1103[0m
+[0mGET / [33m404 [0m4.433 ms - 1103[0m
+[0mGET /vtigercrm/vtigerservice.php [33m404 [0m3.358 ms - 1048[0m
+[0mGET / [33m404 [0m3.901 ms - 1103[0m
+[0mGET / [33m404 [0m3.284 ms - 1103[0m
+[0mGET / [33m404 [0m3.398 ms - 1103[0m
+[0mGET /webman/login.cgi?username=admin&passwd=123456 [33m404 [0m9.930 ms - 1048[0m
+[0mGET / [33m404 [0m4.172 ms - 1103[0m
+[0mGET / [33m404 [0m3.899 ms - 1103[0m
+[0mGET / [33m404 [0m3.255 ms - 1103[0m
+[0mGET / [33m404 [0m4.021 ms - 1103[0m
+[0mGET /search/all_friend?email=41724047@xs.ustb.edu.cn [32m200 [0m4.294 ms - 118[0m
+[0mGET /search/all_friend?email=41724047@xs.ustb.edu.cn [32m200 [0m3.317 ms - 118[0m
+[0mGET /favicon.ico [33m404 [0m3.398 ms - 1048[0m
+[0mGET / [33m404 [0m3.888 ms - 1103[0m
+[0mGET /register/get_code?email=2508074836@qq.com [32m200 [0m1.991 ms - -[0m
+{ _id: 5c7be25453db8d044b2ca2e8,
+  email: '2508074836@qq.com',
+  __v: 0 }
+(node:1099) DeprecationWarning: collection.update is deprecated. Use updateOne, updateMany, or bulkWrite instead.
+Message sent: <c6c6bad9-a87a-2ed8-27b9-984722349bd1@qq.com>
+[Object: null prototype] {
+  email: '2508074836@qq.com',
+  code: '601639',
+  username: 'jack',
+  password1: '209cbd7df48248f976f6dd4817b07c208e0730a2',
+  password2: '209cbd7df48248f976f6dd4817b07c208e0730a2' }
+{ _id: 5c7be27353db8d044b2ca2e9,
+  email: '2508074836@qq.com',
+  username: 'jack',
+  password: '209cbd7df48248f976f6dd4817b07c208e0730a2',
+  created_at: '3/3/2019, 10:19:31 PM',
+  mobilePhone: '',
+  imageUrl: '',
+  friends: [],
+  individuality: '',
+  birthplace: '',
+  livePlace: '',
+  emergencyPhone: '',
+  __v: 0 }
+[0mPOST /register/add_user/ [32m200 [0m22.177 ms - -[0m
+[0mGET /register/get_code?email=jackcc0701@163.com [32m200 [0m1.600 ms - -[0m
+{ _id: 5c7be6d653db8d044b2ca2ea,
+  email: 'jackcc0701@163.com',
+  __v: 0 }
+Message sent: <6dc015e2-8dd0-1028-6169-88eeee143221@qq.com>
+[Object: null prototype] {
+  email: 'jackcc0701@163.com',
+  code: '503928',
+  username: 'test',
+  password1: '40bd001563085fc35165329ea1ff5c5ecbdbbeef',
+  password2: '40bd001563085fc35165329ea1ff5c5ecbdbbeef' }
+[0mPOST /register/add_user/ [32m200 [0m3.794 ms - -[0m
+[0mGET / [33m404 [0m11.977 ms - 1103[0m
+[0mGET / [33m404 [0m4.039 ms - 1103[0m
+[0mGET / [33m404 [0m3.877 ms - 1103[0m
+[0mGET /webman/login.cgi?username=admin&passwd=123456 [33m404 [0m3.875 ms - 1048[0m
+[0mGET / [33m404 [0m4.009 ms - 1103[0m
+[0mGET / [33m404 [0m4.118 ms - 1103[0m
+[0mGET / [33m404 [0m3.232 ms - 1103[0m
+[0mGET / [33m404 [0m4.209 ms - 1103[0m
+[0mGET / [33m404 [0m3.791 ms - 1103[0m
+[0mGET / [33m404 [0m3.268 ms - 1103[0m
+[0mGET / [33m404 [0m3.959 ms - 1103[0m
+[0mGET / [33m404 [0m3.902 ms - 1103[0m
+[0mGET / [33m404 [0m3.849 ms - 1103[0m
+[0mGET / [33m404 [0m3.168 ms - 1103[0m
+[0mGET / [33m404 [0m3.610 ms - 1103[0m
+[0mGET / [33m404 [0m3.621 ms - 1103[0m
+[0mGET / [33m404 [0m4.253 ms - 1103[0m
+[0mGET / [33m404 [0m4.150 ms - 1103[0m
+[0mGET / [33m404 [0m3.215 ms - 1103[0m
+[0mGET / [33m404 [0m3.955 ms - 1103[0m
+[0mGET / [33m404 [0m4.049 ms - 1103[0m
+[0mGET / [33m404 [0m4.002 ms - 1103[0m
+[0mGET / [33m404 [0m3.961 ms - 1103[0m
+[0mGET / [33m404 [0m4.327 ms - 1103[0m
+[0mGET / [33m404 [0m3.496 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.697 ms - 1048[0m
+[0mGET / [33m404 [0m3.480 ms - 1103[0m
+[0mGET / [33m404 [0m4.051 ms - 1103[0m
+[0mGET / [33m404 [0m3.963 ms - 1103[0m
+[0mGET / [33m404 [0m3.909 ms - 1103[0m
+[0mGET / [33m404 [0m3.879 ms - 1103[0m
+[0mGET / [33m404 [0m3.544 ms - 1103[0m
+[0mGET / [33m404 [0m6.396 ms - 1103[0m
+[0mGET / [33m404 [0m3.991 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.951 ms - 1048[0m
+[0mGET / [33m404 [0m4.291 ms - 1103[0m
+[0mGET / [33m404 [0m3.971 ms - 1103[0m
+[0mGET / [33m404 [0m3.965 ms - 1103[0m
+[0mGET / [33m404 [0m4.155 ms - 1103[0m
+[0mGET / [33m404 [0m25.353 ms - 1103[0m
+[0mGET / [33m404 [0m6.605 ms - 1103[0m
+[0mGET / [33m404 [0m3.329 ms - 1103[0m
+[0mGET / [33m404 [0m3.945 ms - 1103[0m
+[0mGET / [33m404 [0m3.978 ms - 1103[0m
+[0mGET / [33m404 [0m4.065 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m3.748 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.488 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.798 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.930 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m4.072 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.974 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.930 ms - 1048[0m
+[0mGET /README [33m404 [0m3.409 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.940 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.788 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.326 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.627 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m3.811 ms - 1103[0m
+[0mGET / [33m404 [0m3.887 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m3.311 ms - 1112[0m
+[0mGET /index.html [33m404 [0m4.083 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.807 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.351 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.998 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m4.067 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.974 ms - 1048[0m
+[0mGET /README [33m404 [0m3.675 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.944 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.717 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.929 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.930 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m4.068 ms - 1103[0m
+[0mGET / [33m404 [0m3.264 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.068 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.869 ms - 1048[0m
+[0mGET /index.php [33m404 [0m4.851 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.226 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.608 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.631 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.363 ms - 1048[0m
+[0mGET /README [33m404 [0m11.607 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m4.552 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.173 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.504 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.683 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m2.964 ms - 1103[0m
+[0mGET / [33m404 [0m7.747 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m4.228 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.935 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.149 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.597 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.675 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m6.398 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.902 ms - 1048[0m
+[0mGET /README [33m404 [0m3.672 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.462 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.659 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m3.649 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.004 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m3.444 ms - 1103[0m
+[0mGET / [33m404 [0m3.233 ms - 1103[0m
+[0mGET / [33m404 [0m3.139 ms - 1103[0m
+[0mGET / [33m404 [0m4.202 ms - 1103[0m
+[0mGET / [33m404 [0m3.827 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m3.762 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.164 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.626 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.575 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.588 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m3.821 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m4.045 ms - 1048[0m
+[0mGET /README [33m404 [0m3.274 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.627 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.690 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m2.970 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.610 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m3.663 ms - 1103[0m
+[0mGET / [33m404 [0m3.976 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m3.671 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.044 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.542 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.509 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m2.874 ms - 1103[0m
+[0mGET /favicon.ico [33m404 [0m8.458 ms - 1048[0m
+[0mGET /robots.txt [33m404 [0m3.749 ms - 1048[0m
+[0mGET /README [33m404 [0m3.320 ms - 1112[0m
+[0mGET /solr/ [33m404 [0m3.736 ms - 1103[0m
+[0mGET /wcm/ [33m404 [0m3.580 ms - 1103[0m
+[0mGET /phpMyAdmin/ [33m404 [0m10.149 ms - 1103[0m
+[0mGET /phpmyadmin/ [33m404 [0m3.950 ms - 1103[0m
+[0mGET /pma/ [33m404 [0m3.478 ms - 1103[0m
+[0mGET / [33m404 [0m3.513 ms - 1103[0m
+[0mGET / [33m404 [0m9.038 ms - 1103[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.796 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m2.117 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.813 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.796 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.875 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.856 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.768 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.523 ms - 217[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.549 ms - 217[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.831 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.751 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.803 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.856 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m2.452 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.781 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.668 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.769 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.743 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.784 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.742 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m2.396 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.792 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.750 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m2.349 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.711 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.754 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.779 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.771 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.757 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.767 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.911 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.846 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.793 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.696 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.773 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.802 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.770 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.771 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.745 ms - -[0m
+[0mGET /search/user?email_username=null [32m200 [0m1.783 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.836 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m2.492 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.411 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.775 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.356 ms - 217[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.416 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.758 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.331 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.720 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.362 ms - 217[0m
+[0mGET /register/get_code?email=2508074836@qq.com [32m200 [0m1.759 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.770 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.782 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.771 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.779 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.907 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.801 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.753 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.765 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.780 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.821 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.816 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.714 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.791 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.668 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.801 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m2.594 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m5.205 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.697 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.791 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.357 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m2.331 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.278 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.646 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.462 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.733 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.361 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.855 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.319 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.740 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.279 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.777 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.488 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.787 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.849 ms - -[0m
+[0mGET / [33m404 [0m3.971 ms - 1103[0m
+[0mGET / [33m404 [0m3.838 ms - 1103[0m
+[0mGET / [33m404 [0m3.779 ms - 1103[0m
+[0mGET / [33m404 [0m3.726 ms - 1103[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.817 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.409 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.766 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.699 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.750 ms - -[0m
+[0mGET /search/user?email_username=jack [32m200 [0m2.400 ms - 217[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.809 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.762 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.700 ms - -[0m
+[0mGET /search/all_friend?email=null [32m200 [0m1.778 ms - -[0m
+(node:32723) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+listening on 3000
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:32723) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":""}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":""}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":""}
+Login
+allPromise
+{"password":"a8a6d52e17454e66479a79f2bc1aeee0a20591e8","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jac"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"1314","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"e794a80eb109162d579df51db6d52e223bb0e9be","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"e794a80eb109162d579df51db6d52e223bb0e9be","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"e794a80eb109162d579df51db6d52e223bb0e9be","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":""}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":""}
+Login
+allPromise
+{"password":"1314","loginname":""}
+Login
+allPromise
+{"password":"1314","loginname":""}
+Login
+allPromise
+{"password":"1314","loginname":""}
+Login
+allPromise
+{"password":"1314","loginname":""}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":""}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":""}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:32723) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'friends' of null
+    at api.findOne.then.resp (/server/SaferGo/event/GetFriend.js:6:64)
+(node:32723) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 11)
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:1553) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+listening on 3000
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":""}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"1ab68d4f727aa1bfd88a246d27af4070f5301dfd","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a94a8fe5ccb19ba61c4c0873d391e987982fbbd3","loginname":"test"}
+Login
+allPromise
+{"password":"7110eda4d09e062aa5e4a390b0a572ac0d2c0220","loginname":"test"}
+Login
+allPromise
+{"password":"7110eda4d09e062aa5e4a390b0a572ac0d2c0220","loginname":"test"}
+Login
+allPromise
+{"password":"7110eda4d09e062aa5e4a390b0a572ac0d2c0220","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"a94a8fe5ccb19ba61c4c0873d391e987982fbbd3","loginname":"test"}
+Login
+allPromise
+{"password":"a94a8fe5ccb19ba61c4c0873d391e987982fbbd3","loginname":"test"}
+Login
+allPromise
+{"password":"a94a8fe5ccb19ba61c4c0873d391e987982fbbd3","loginname":"test"}
+Login
+allPromise
+{"password":"ae27872adf6123e023f89a650a6b3c7b96e85fca","loginname":"test"}
+Login
+allPromise
+{"password":"ae27872adf6123e023f89a650a6b3c7b96e85fca","loginname":"test"}
+Login
+allPromise
+{"password":"ae27872adf6123e023f89a650a6b3c7b96e85fca","loginname":"test"}
+Login
+allPromise
+{"password":"ae27872adf6123e023f89a650a6b3c7b96e85fca","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+[0mGET / [33m404 [0m220.589 ms - 1103[0m
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:1553) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"596727c8a0ea4db3ba2ceceedccbacd3d7b371b8","loginname":"jack"}
+Login
+allPromise
+{"password":"596727c8a0ea4db3ba2ceceedccbacd3d7b371b8","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+(node:1553) DeprecationWarning: collection.update is deprecated. Use updateOne, updateMany, or bulkWrite instead.
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+[0mGET /register/get_code?email=jackcc0701@163.com [32m200 [0m3.653 ms - -[0m
+Message sent: <e90059da-7bf7-bbc7-b18c-b4d824f79db9@qq.com>
+[Object: null prototype] {
+  email: 'jackcc0701@163.com',
+  code: '941203',
+  username: 'test',
+  password1: '40bd001563085fc35165329ea1ff5c5ecbdbbeef',
+  password2: '40bd001563085fc35165329ea1ff5c5ecbdbbeef' }
+{ _id: 5c9255843920c8061109acaa,
+  email: 'jackcc0701@163.com',
+  username: 'test',
+  password: '40bd001563085fc35165329ea1ff5c5ecbdbbeef',
+  created_at: '3/20/2019, 11:00:20 PM',
+  mobilePhone: '',
+  imageUrl: '',
+  friends: [],
+  individuality: '',
+  birthplace: '',
+  livePlace: '',
+  emergencyPhone: '',
+  __v: 0 }
+[0mPOST /register/add_user/ [32m200 [0m28.762 ms - -[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+{"password":"9adcb29710e807607b683f62e555c22dc5659713","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+[0mGET / [33m404 [0m18.180 ms - 1103[0m
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m20.108 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:1553) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'username' of null
+    at api.findOne.then.resp (/server/SaferGo/event/userEmail.js:8:84)
+(node:1553) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+[0mGET http://www.baidu.com/ [33m404 [0m24.457 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m9.729 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m16.706 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m10.613 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m11.792 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m22.860 ms - 1103[0m
+[0mGET http://www.bing.com/ [33m404 [0m46.927 ms - 1103[0m
+[0mGET http://www.boxun.com/ [33m404 [0m69.707 ms - 1103[0m
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m15.089 ms - 1103[0m
+[0mGET / [33m404 [0m13.680 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"da39a3ee5e6b4b0d3255bfef95601890afd80709","loginname":""}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m23.501 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m16.302 ms - 1103[0m
+[0mGET / [33m404 [0m6.258 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m7.796 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m23.747 ms - 1103[0m
+[0mGET http://www.boxun.com/ [33m404 [0m8.069 ms - 1103[0m
+[0mGET http://www.bing.com/ [33m404 [0m15.049 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m31.884 ms - 1103[0m
+[0mGET http://www.baidu.com/ [33m404 [0m11.721 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m15.436 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m5.179 ms - 1103[0m
+[0mGET / [33m404 [0m5.971 ms - 1103[0m
+[0mGET / [33m404 [0m12.470 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m12.908 ms - 1103[0m
+[0mGET / [33m404 [0m7.300 ms - 1103[0m
+[0mGET / [33m404 [0m11.568 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m5.608 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m10.730 ms - 1103[0m
+[0mGET / [33m404 [0m12.350 ms - 1103[0m
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.684 ms - 1103[0m
+[0mGET / [33m404 [0m4.789 ms - 1103[0m
+[0mGET / [33m404 [0m14.922 ms - 1103[0m
+[0mGET / [33m404 [0m4.491 ms - 1103[0m
+[0mGET / [33m404 [0m4.664 ms - 1103[0m
+[0mGET / [33m404 [0m6.257 ms - 1103[0m
+[0mGET / [33m404 [0m9.084 ms - 1103[0m
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.694 ms - 1103[0m
+[0mGET / [33m404 [0m5.868 ms - 1103[0m
+[0mGET / [33m404 [0m5.297 ms - 1103[0m
+[0mGET / [33m404 [0m3.592 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2","loginname":"qq"}
+Login
+allPromise
+{"password":"6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2","loginname":"qq"}
+Login
+{"password":"6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2","loginname":"qq"}
+Login
+allPromise
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.696 ms - 1103[0m
+[0mGET / [33m404 [0m4.479 ms - 1103[0m
+[0mGET / [33m404 [0m11.440 ms - 1103[0m
+[0mGET / [33m404 [0m4.401 ms - 1103[0m
+[0mGET / [33m404 [0m6.826 ms - 1103[0m
+[0mGET / [33m404 [0m10.527 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m4.955 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m4.401 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m16.557 ms - 1103[0m
+[0mGET http://www.bing.com/ [33m404 [0m11.863 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m15.521 ms - 1103[0m
+[0mGET http://www.boxun.com/ [33m404 [0m4.672 ms - 1103[0m
+[0mGET http://www.baidu.com/ [33m404 [0m7.689 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m6.174 ms - 1103[0m
+[0mGET / [33m404 [0m9.445 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m4.748 ms - 1103[0m
+[0mGET http://www.baidu.com/ [33m404 [0m3.755 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m11.199 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m15.198 ms - 1103[0m
+[0mGET http://www.boxun.com/ [33m404 [0m7.660 ms - 1103[0m
+[0mGET http://www.bing.com/ [33m404 [0m3.275 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m6.228 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m5.882 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m12.836 ms - 1103[0m
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m12.960 ms - 1103[0m
+[0mGET / [33m404 [0m3.957 ms - 1103[0m
+[0mGET / [33m404 [0m3.911 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.231 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.493 ms - 1103[0m
+[0mPOST /sdk [33m404 [0m4.174 ms - 1507[0m
+[0mGET / [33m404 [0m6.515 ms - 1103[0m
+[0mGET / [33m404 [0m5.690 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m10.350 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m3.622 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m4.528 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m10.980 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m3.459 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m4.311 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m3.623 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.280 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m3.869 ms - 1103[0m
+[0mGET http://www.baidu.com/ [33m404 [0m3.851 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m12.452 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m13.048 ms - 1103[0m
+[0mGET http://www.boxun.com/ [33m404 [0m12.478 ms - 1103[0m
+[0mGET http://www.bing.com/ [33m404 [0m3.757 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m4.243 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m3.058 ms - 1103[0m
+[0mGET / [33m404 [0m4.236 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m9.977 ms - 1112[0m
+[0mGET /index.html [33m404 [0m4.071 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.973 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.399 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.871 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+[0mGET / [33m404 [0m9.666 ms - 1103[0m
+[0mGET / [33m404 [0m3.487 ms - 1103[0m
+[0mGET / [33m404 [0m4.001 ms - 1103[0m
+[0mOPTIONS / [33m404 [0m3.905 ms - 1507[0m
+[0mGET / [33m404 [0m3.321 ms - 1103[0m
+[0mGET http://www.baidu.com/ [33m404 [0m3.593 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m4.117 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.072 ms - 1103[0m
+[0mGET / [33m404 [0m3.616 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m3.287 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m3.643 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.733 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.063 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m9.969 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m3.748 ms - 1103[0m
+[0mGET / [33m404 [0m4.196 ms - 1103[0m
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"test"}
+Login
+allPromise
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m4.318 ms - 1103[0m
+[0mGET http://www.epochtimes.com/ [33m404 [0m4.488 ms - 1103[0m
+[0mGET http://www.minghui.org/ [33m404 [0m5.515 ms - 1103[0m
+[0mGET http://www.boxun.com/ [33m404 [0m7.437 ms - 1103[0m
+[0mGET http://www.bing.com/ [33m404 [0m9.129 ms - 1103[0m
+[0mGET http://www.123cha.com/ [33m404 [0m3.185 ms - 1103[0m
+[0mGET http://www.baidu.com/ [33m404 [0m2.566 ms - 1103[0m
+[0mGET http://www.rfa.org/ [33m404 [0m3.806 ms - 1103[0m
+[0mGET http://wujieliulan.com/ [33m404 [0m3.811 ms - 1103[0m
+[0mGET / [33m404 [0m3.356 ms - 1103[0m
+[0mGET / [33m404 [0m3.873 ms - 1103[0m
+[0mGET / [33m404 [0m3.458 ms - 1103[0m
+[0mGET / [33m404 [0m4.042 ms - 1103[0m
+[0mGET /explicit_not_exist_path [33m404 [0m3.076 ms - 1112[0m
+[0mGET /index.html [33m404 [0m3.179 ms - 1048[0m
+[0mGET /index.php [33m404 [0m3.627 ms - 1048[0m
+[0mGET /index.jsp [33m404 [0m3.323 ms - 1048[0m
+[0mGET /admin/ [33m404 [0m2.945 ms - 1103[0m
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"a83a544414131b13a0ff425b46a1d406b2d2d402","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+{"password":"209cbd7df48248f976f6dd4817b07c208e0730a2","loginname":"jack"}
+Login
+allPromise
+[0mGET / [33m404 [0m3.949 ms - 1103[0m
+[0mGET / [33m404 [0m3.267 ms - 1103[0m
+[0mGET / [33m404 [0m10.935 ms - 1103[0m
+[0mGET / [33m404 [0m4.190 ms - 1103[0m
+[0mGET / [33m404 [0m5.756 ms - 1103[0m
+[0mGET / [33m404 [0m3.279 ms - 1103[0m
+{"password":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","loginname":"test"}
+Login
+allPromise
+[0mGET / [33m404 [0m8.546 ms - 1103[0m
+[0mGET / [33m404 [0m5.052 ms - 1103[0m
+[0mGET / [33m404 [0m3.733 ms - 1103[0m
+[0mGET / [33m404 [0m3.838 ms - 1103[0m
+[0mGET / [33m404 [0m4.077 ms - 1103[0m
+[0mGET / [33m404 [0m3.251 ms - 1103[0m
+[0mGET / [33m404 [0m10.590 ms - 1103[0m
